@@ -1,0 +1,7 @@
+tensorflow==2.12.0
+opencv-python
+face_recognition
+imageio[ffmpeg]
+scipy
+numpy
+tqdm
